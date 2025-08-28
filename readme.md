@@ -95,7 +95,3 @@ curl -X DELETE http://localhost:8080/todos/1
 - If DB connection fails, error will be logged in terminal.
 
 ---
-
-## 📮 License
-
-MIT
